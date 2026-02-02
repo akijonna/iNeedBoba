@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(93, 93, 201);
+}
+
+.image {
+    display: inline-block;
+    width: 200px;
+    height: auto;
+}
+
+
+.text {
+    color: white;
+}
+
+.textcont {
+    height: 500px;
+}
+
+a {
+    display: block;
+    margin-top: 500px;
+}
